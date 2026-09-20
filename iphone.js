@@ -1,0 +1,1 @@
+javascript:(function()%7Blocation.reload()%3Bvar%20i%20%3D%20document.createElement('iframe')%3Bdocument.body.appendChild(i)%3Bnavigator.clipboard.writeText(i.contentWindow.localStorage.token).then(function()%7Balert('S7B - Votre token a été copié')%7D).catch(function(err)%7Balert('Impossible de copier le token%3A '%20%2B%20err)%7D)%7D)()
