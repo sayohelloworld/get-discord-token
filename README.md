@@ -1,4 +1,4 @@
-## IPHONE TUTORIAL
+# IPHONE TUTORIAL
 
 1. Install **Google Chrome** on your iPhone or iPad.
 2. Open Chrome and go to **Discord**.
